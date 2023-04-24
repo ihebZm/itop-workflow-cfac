@@ -1,0 +1,58 @@
+2023-04-12 10:26:47 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-12 10:27:42 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-12 10:27:50 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-12 10:55:41 | Error   | 2     | An exception has been thrown during the rendering of a template ("Unable to generate a URL for the named route "" as such route does not exist."). | Twig\Error\RuntimeError |||
+array (
+  'exception class' => 'Twig\\Error\\RuntimeError',
+  'file' => 'C:\\xampp\\htdocs\\itop-cfac-windows\\web\\env-production\\itop-portal-base\\portal\\templates\\bricks\\manage\\tile-default.html.twig',
+  'line' => 6,
+  'uri' => 'http://localhost:8056/itop-cfac-windows/web/pages/exec.php/?exec_module=itop-portal-base&exec_page=index.php&portal_id=itop-portal',
+)
+2023-04-12 10:55:41 | Error   | 2     | An exception has been thrown during the rendering of a template ("Unable to generate a URL for the named route "" as such route does not exist."). | Twig\Error\RuntimeError |||
+array (
+  'exception class' => 'Twig\\Error\\RuntimeError',
+  'file' => 'C:\\xampp\\htdocs\\itop-cfac-windows\\web\\env-production\\itop-portal-base\\portal\\templates\\bricks\\manage\\tile-default.html.twig',
+  'line' => 6,
+  'uri' => 'http://localhost:8056/itop-cfac-windows/web/pages/exec.php/?exec_module=itop-portal-base&exec_page=index.php&portal_id=itop-portal',
+)
+2023-04-12 10:55:43 | Error   | 2     | An exception has been thrown during the rendering of a template ("Unable to generate a URL for the named route "" as such route does not exist."). | Twig\Error\RuntimeError |||
+array (
+  'exception class' => 'Twig\\Error\\RuntimeError',
+  'file' => 'C:\\xampp\\htdocs\\itop-cfac-windows\\web\\env-production\\itop-portal-base\\portal\\templates\\bricks\\manage\\tile-default.html.twig',
+  'line' => 6,
+  'uri' => 'http://localhost:8056/itop-cfac-windows/web/pages/exec.php/?exec_module=itop-portal-base&exec_page=index.php&portal_id=itop-portal',
+)
+2023-04-12 10:55:44 | Error   | 2     | An exception has been thrown during the rendering of a template ("Unable to generate a URL for the named route "" as such route does not exist."). | Twig\Error\RuntimeError |||
+array (
+  'exception class' => 'Twig\\Error\\RuntimeError',
+  'file' => 'C:\\xampp\\htdocs\\itop-cfac-windows\\web\\env-production\\itop-portal-base\\portal\\templates\\bricks\\manage\\tile-default.html.twig',
+  'line' => 6,
+  'uri' => 'http://localhost:8056/itop-cfac-windows/web/pages/exec.php/?exec_module=itop-portal-base&exec_page=index.php&portal_id=itop-portal',
+)
+2023-04-12 10:55:47 | Error   | 2     | An exception has been thrown during the rendering of a template ("Unable to generate a URL for the named route "" as such route does not exist."). | Twig\Error\RuntimeError |||
+array (
+  'exception class' => 'Twig\\Error\\RuntimeError',
+  'file' => 'C:\\xampp\\htdocs\\itop-cfac-windows\\web\\env-production\\itop-portal-base\\portal\\templates\\bricks\\manage\\tile-default.html.twig',
+  'line' => 6,
+  'uri' => 'http://localhost:8056/itop-cfac-windows/web/pages/exec.php/?exec_module=itop-portal-base&exec_page=index.php&portal_id=itop-portal',
+)
+2023-04-12 10:56:53 | Info    | 1     | mysqldump -V 2>&1 said: mysqldump  Ver 10.19 Distrib 10.4.27-MariaDB, for Win64 (AMD64) | IssueLog |||
+2023-04-12 11:13:18 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-12 11:14:16 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-12 11:17:49 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-12 11:18:10 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-12 11:28:50 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-12 14:29:59 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-20 12:48:43 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-20 13:37:51 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-20 13:40:49 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-24 11:53:30 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-24 11:53:33 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-24 11:55:50 | Error   | 1     | Module itop-object-copy - invalid rule #MailInboxStandardToMailInboxOAuth - dest_class "MailInboxOAuth" is not a valid class | IssueLog |||
+2023-04-24 11:58:39 | Error   | 2     | An exception has been thrown during the rendering of a template ("Unable to generate a URL for the named route "" as such route does not exist."). | Twig\Error\RuntimeError |||
+array (
+  'exception class' => 'Twig\\Error\\RuntimeError',
+  'file' => 'C:\\xampp\\htdocs\\itop-cfac-windows\\web\\env-production\\itop-portal-base\\portal\\templates\\bricks\\manage\\tile-default.html.twig',
+  'line' => 6,
+  'uri' => 'http://localhost:8056/itop-cfac-windows/web/pages/exec.php/?exec_module=itop-portal-base&exec_page=index.php&portal_id=itop-portal',
+)

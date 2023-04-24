@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension format="1.0">
+	<extension_code>customer-survey</extension_code>
+	<company>Combodo SARL</company>
+	<author><![CDATA[Guillaume]]></author>
+	<label><![CDATA[Customer Survey]]></label>
+	<description><![CDATA[Create a quizz, send it to your customers, collect the replies.]]></description>
+	<version>2.5.2</version>
+	<modules type="array">
+		<module>
+			<id>customer-survey</id>
+			<version>tags/2.5.2</version>
+		</module>
+	</modules>
+	<release_date>2022-08-04</release_date>
+	<version_description><![CDATA[
+        * Add PHP 8.1 compatibility
+      ]]></version_description>
+	<itop_version_min>2.3.2</itop_version_min>
+	<status></status>
+	<mandatory>false</mandatory>
+	<more_info_url></more_info_url>
+</extension>

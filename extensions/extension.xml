@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension format="1.0">
+	<extension_code>molkobain-portal-mosaic-service-catalog</extension_code>
+	<company>Molkobain I/O</company>
+	<author><![CDATA[Guillaume Lajarige]]></author>
+	<label><![CDATA[Service catalog mosaic view]]></label>
+	<description><![CDATA[Look professional: display your service catalog as icons in the user portal.]]></description>
+	<version>1.0.0</version>
+	<modules>
+		<module>
+			<id>molkobain-portal-mosaic-service-catalog</id>
+			<version>tags/v1.0.0/dist/molkobain-portal-mosaic-service-catalog</version>
+		</module>
+	</modules>
+	<release_date>2018-02-18</release_date>
+	<version_description><![CDATA[First version]]></version_description>
+	<itop_version_min>2.4.0</itop_version_min>
+	<status>stable</status>
+	<mandatory>false</mandatory>
+	<more_info_url></more_info_url>
+</extension>

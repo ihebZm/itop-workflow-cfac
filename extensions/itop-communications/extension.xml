@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension format="1.0">
+	<extension_code>itop-communications</extension_code>
+	<company>Combodo SARL</company>
+	<author><![CDATA[Anne-Catherine, Pierre, Vincent]]></author>
+	<label><![CDATA[Communications to the Customers]]></label>
+	<description><![CDATA[Communications to the Customers via the portal]]></description>
+	<version>1.2.0</version>
+	<modules type="array">
+		<module>
+			<id>itop-communications</id>
+			<version>tags/1.2.0</version>
+		</module>
+	</modules>
+	<release_date>2021-12-18</release_date>
+	<version_description><![CDATA[
+      	* Add 3.0 compatibility
+		* Add ES translations
+		* Fix icons not showing anymore in iTop 3.0.0+
+      ]]></version_description>
+	<itop_version_min>2.7.0</itop_version_min>
+	<status></status>
+	<mandatory>false</mandatory>
+	<more_info_url></more_info_url>
+</extension>
